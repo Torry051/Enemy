@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files\\UnityProjects\\EnemyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C2B953-7262-77C5-56A6-BC441B8CB6E0}|Assembly-CSharp.csproj|d:\\program files\\unityprojects\\enemydemo\\assets\\enemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C2B953-7262-77C5-56A6-BC441B8CB6E0}|Assembly-CSharp.csproj|solutionrelative:assets\\enemymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyMove.cs",
+              "DocumentMoniker": "D:\\Program Files\\UnityProjects\\EnemyDemo\\Assets\\EnemyMove.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyMove.cs",
+              "ToolTip": "D:\\Program Files\\UnityProjects\\EnemyDemo\\Assets\\EnemyMove.cs",
+              "RelativeToolTip": "Assets\\EnemyMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:21:52.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
